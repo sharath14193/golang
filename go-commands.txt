@@ -1,0 +1,5 @@
+go build <main.go>
+./<main>
+go run <main.go>
+go doc <fmt>
+go run . (To run including all in the curent folder)
